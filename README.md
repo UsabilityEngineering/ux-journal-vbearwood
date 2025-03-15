@@ -4,7 +4,7 @@ About me...
 
 ## UX Team Project
 
-Coming soon.
+Price Check 
 
 ## UX Journal
 
