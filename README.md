@@ -8,4 +8,4 @@ Price Check
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Hunting For Assignments](journal/)
